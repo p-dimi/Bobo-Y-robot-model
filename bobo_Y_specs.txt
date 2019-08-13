@@ -1,0 +1,13 @@
+Board used: Crowduino Uno, x1
+https://www.aliexpress.com/item/1929463012.html
+
+Motors used: 6V N20 DC Gear Motor, x2
+https://www.banggood.com/N20-DC-Gear-Motor-Miniature-High-Torque-Electric-Gear-Box-Motor-p-924377.html?ID=512746&cur_warehouse=CN
+
+Motor Driver used: Velleman VMA409, L298N dual Bridge DC Motor Driver, x1
+https://www.velleman.eu/products/view/?id=435576
+
+Proximity Sensor: Parallax inc 28015, x1
+https://www.amazon.com/Parallax-Ultrasonic-Range-Sensor-28015/dp/B004SRTM0K
+
+And plenty of jumper wires.

@@ -1,0 +1,1 @@
+Pinout can be inferred easily from reading the bobo_Y_code
