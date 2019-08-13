@@ -14,4 +14,4 @@ The video demonstration below shows the model as is - all the parts are exactly 
 
 ### Video Demonstration of Bobo Y
 
-[![Watch the video](thumbnail)](https://www.youtube.com/watch?v=41y-lSST6A4)
+[![Watch the video](https://raw.githubusercontent.com/p-dimi/bobo_Y_robot/master/Bobo_Y.png)](https://www.youtube.com/watch?v=41y-lSST6A4)
